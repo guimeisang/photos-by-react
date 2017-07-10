@@ -1,2 +1,5 @@
-###  运行项目的 
+# Get started   
 
+- npm install   
+
+- npm run start
