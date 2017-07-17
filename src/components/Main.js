@@ -83,6 +83,7 @@ class ImgFigure extends React.Component {
   }
 }
 
+//底部控制台
 class ControllerUnit extends React.Component {
   constructor(props) {
     super(props);
@@ -119,7 +120,7 @@ class ControllerUnit extends React.Component {
   }
 }
 
-
+//stage大管家
 class GalleryByReactApp extends React.Component {
   constructor(props) {
     super(props);
